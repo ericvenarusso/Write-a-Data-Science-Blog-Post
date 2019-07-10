@@ -14,9 +14,9 @@ Udacity Data Scientist Nanodegree Project.
 This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: </br>
 ` pip install -r requirements.txt `
 
-You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific files. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
 
-To move the downloaded files to the folder, you can execute. </br>
+To move the downloaded files to the specific folder, you can execute. </br>
 
 1. Stackoverflow’s 2017 data </br>
 ` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv `</br>
