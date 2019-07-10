@@ -33,7 +33,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 ## File Description <a name="files"></a>
 
-**exploratoty_analysis.ipynb**: Notebook containing the data analysis. </br>
+**exploratory_analysis.ipynb**: Notebook containing the data analysis. </br>
 **data/2017/survey_results_public.csv**: Stackoverflow's 2017 Annual Developer Survey data. </br>
 **data/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data. </br>
 
