@@ -1,0 +1,6 @@
+# Ignore data
+data/2017/
+data/2018/
+
+# Jupyter notebook
+.ipynb_checkpoints
