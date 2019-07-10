@@ -1,2 +1,34 @@
-# Write-a-Data-Science-Blog-Post
-Udacity Data Scientist Nanodegree Project
+# Write a Data Science blog post
+Udacity Data Scientist Nanodegree Project.
+
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Installation <a name="installation"></a>
+
+This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: </br>
+` pip install -r requirements.txt `
+
+## Project Motivation <a name="motivation"></a>
+
+This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:</br>
+1. What are the most used programming languages in Brazil? </br>
+2. What are the most wanted programming languages in Brazil? </br>
+3. How does programming languages used at work relates with programming languages people want to learn? </br>
+
+## File Description <a name="files"></a>
+
+**exploratoty_analisys.ipynb**: Notebook containing the data analisys.
+**data/2017/survey_results_public.csv**: Stackoverflow's 2017 Annual Developer Survey data.
+**data/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data.
+
+## Results <a name="results"></a>
+The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey)
